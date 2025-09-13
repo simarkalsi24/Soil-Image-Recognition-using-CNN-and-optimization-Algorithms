@@ -1,0 +1,1 @@
+I have also checked how the CNN model with the test/train/validation split method is different from the k-fold cross validation for the model training.
